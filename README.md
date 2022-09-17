@@ -5,13 +5,13 @@
 <br>
 
 ## :sassy_woman:  About me
-- :University: Pursuing Master in Applied Computer Science at Dalhousie University
-- :Award: `Smart India Hackathon` Finalist 2019
+- 🏫: Pursuing Master in Applied Computer Science at Dalhousie University
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a novice competitive programmer at `LeetCode`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `A Co-op` or a new `job opportunity` starting `January 2023`
 - :nerd_face: Always `learning new things`
+- : `Smart India Hackathon` Finalist 2019
 
 <br>
 
@@ -73,13 +73,11 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
     &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  <a href=/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
   </a> 
     &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
+
 </p>
 
  ### 👉 Software & Tools
