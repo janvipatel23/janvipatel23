@@ -6,7 +6,7 @@
 
 ## :sassy_woman:  About me
 - 👨‍💻 Senior Software Engineer/AI Engineer passionate about building scalable, reliable, and intelligent software solutions.
-🤖 Building and deploying production-ready AI applications using LLMs, RAG pipelines, AI Agents, and end-to-end AI orchestration.
+- 🤖 Building and deploying production-ready AI applications using LLMs, RAG pipelines, AI Agents, and end-to-end AI orchestration.
 - 💻 Experienced in **Java, Spring Boot, C#, .NET, Angular, React, and Python**.
 - ☁️ Working with **AWS, Cloud Architecture, Microservices, REST APIs, and CI/CD**.
 - 🧠 Interested in **AI Engineering, Solution Architecture, System Design, and Distributed Systems**.
