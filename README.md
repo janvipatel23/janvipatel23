@@ -5,13 +5,14 @@
 <br>
 
 ## :sassy_woman:  About me
-- 🏫: Pursuing Master in Applied Computer Science at Dalhousie University
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a novice competitive programmer at `LeetCode`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `A Co-op` or a new `job opportunity` starting `January 2023`
-- :nerd_face: Always `learning new things`
-- : `Smart India Hackathon` Finalist 2019
+- 👨‍💻 Senior Software Engineer/AI Engineer passionate about building scalable, reliable, and intelligent software solutions.
+🤖 Building and deploying production-ready AI applications using LLMs, RAG pipelines, AI Agents, and end-to-end AI orchestration.
+- 💻 Experienced in **Java, Spring Boot, C#, .NET, Angular, React, and Python**.
+- ☁️ Working with **AWS, Cloud Architecture, Microservices, REST APIs, and CI/CD**.
+- 🧠 Interested in **AI Engineering, Solution Architecture, System Design, and Distributed Systems**.
+- 🚀 I love turning complex problems into elegant, scalable software solutions.
+- 🏆 **Smart India Hackathon Finalist 2019**.
+- 📚 Always learning, experimenting, and building something new!
 
 <br>
 
